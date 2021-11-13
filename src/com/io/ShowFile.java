@@ -4,10 +4,10 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-/*
-This program display a text file
-which takes file name as command line argument
- */
+
+//This program display a text file
+//which takes file name as command line argument
+
 public class ShowFile {
     public static void main(String[] args) {
         int data;
